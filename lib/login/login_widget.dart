@@ -108,7 +108,7 @@ class _LoginWidgetState extends State<LoginWidget>
                           indicatorColor: const Color(0x0089DC8C),
                           tabs: const [
                             Tab(
-                              text: 'Signup',
+                              text: 'Sign Up',
                             ),
                             Tab(
                               text: 'Login',
